@@ -12,7 +12,7 @@ Create an HTML website which hosts a main page, linking to secondary pages that 
 
 # Provided Instructions
 1. Create index.html
-2. Create 'recipes' directory and populate with recipes in HTML files, link index.hmtl to these pages
+2. Create 'recipes' directory and populate with recipes in HTML files, link index.html to these pages
 3. Recipes pages should have: 
     - A free image
     - A short description
