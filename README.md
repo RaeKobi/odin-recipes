@@ -3,12 +3,13 @@ Repository for the Odin Project, Project: Recipes.
 
 # The Project
 Create an HTML website which hosts a main page, linking to secondary pages that contain content. In this case, the desired content is some recipes.
+(Update 02/Nov/2025) Having now gone through the CSS course, I've been task with adding CSS as I see fit to practice.
 
 # Skills
 - Basic HTML language use
 - Basic webpage structure 
 - Git CLI and Github usage
-- (Optional) Basic CSS language use
+- (Update 02/Nov/2025) Basic CSS language use
 
 # Provided Instructions
 1. Create index.html
@@ -18,4 +19,4 @@ Create an HTML website which hosts a main page, linking to secondary pages that 
     - A short description
     - An unordered list of ingredients
     - An ordered list of instructions
-
+4. (Update 02/Nov/2025) Add CSS as desired
