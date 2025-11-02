@@ -1,5 +1,72 @@
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
+* {
+    margin: 0 auto 4px; 
+}
+
+:root {
+    background-color: #DDDDDD;
+}
+
 body {
     font-family: "Red Hat Mono", monospace;
+
+    width: 530px;
+}
+
+.bordered {
+    border: 4px black solid;
+    width: 512px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.center {
+    text-align: center;
+}
+
+.center.link {
+    display: block;
+}
+
+.image {
+    border-radius: 8px;
+}
+
+.header {
+    background-color: #DDDDDD;
+    padding: 8px 0;
+    margin-bottom: 0;
+}
+
+.button {
+    display: inline-block;
+    background-color: white;
+    padding: 8px;
+    margin: 0 auto;
+    border: 1px grey solid;
+    border-radius: 8px;
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+    width: fit-content;
+}
+
+.button:hover {
+    background-color: #EEEEEE;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.line {
+    width: 456px;
+    margin: 16px auto;
+    border: 2px #DDDDDD solid;
+    border-radius: 2px;
+}
+
+.inner {
+    width: 480px;
+    margin: 8px auto;
 }
